@@ -145,4 +145,4 @@ The tuned model utilizing a 50-day low/100-day high SMA strategy and a 3-month t
 
 Disclaimer: This report is for informational purposes only and should not be considered financial advice. Always conduct your own research and due diligence before making any investment decisions.
 
-**Link to code** [Module 14 challenge](/machince_learning_trading_bot.ipynb)
+**Link to code** [Module 14 challenge](machince_learning_trading_bot.ipynb)
