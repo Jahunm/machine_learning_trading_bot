@@ -2,12 +2,13 @@
 ![Algo Bot](Images/algobot.jpg)
 ---
 ## Table of Contents
-1. [Introduction:](Introduction:)
-2. [Baseline Performance:](Baseline-Performance:)
-3. [Tuning the Baseline Algorithm:](Tuning-the-Baseline-Algorithm:)
-4. [Evaluations of the Models:](Evaluations-of-the-Models:)
-5. [Conclusion:](Conclusion:)
+* [Introduction](#introduction)
+* [Baseline Performance](#baseline-performance)
+* [Tuning the Baseline Algorithm](#tuning-the-baseline-algorithm)
+* [Evaluations of the Models](#evaluations-of-the-models)
+* [Conclusion](#conclusion)
 ---
+
 ## ***Introduction:***
 
 This report details the evaluation of a machine learning trading bot, aiming to improve existing algorithmic trading systems through data-driven decision making. We explored the performance of various configurations including parameter combinations and machine learning models.
